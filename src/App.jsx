@@ -9,7 +9,7 @@ function App() {
 
       <section id="features" className="feature-grid">
         <article>
-          <h2>Built with React</h2>
+          <h2>Built with React ya</h2>
           <p>Use components, hooks, and modern UI patterns.</p>
         </article>
         <article>

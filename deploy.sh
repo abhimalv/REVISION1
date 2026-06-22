@@ -7,7 +7,11 @@ npm install
 echo "build the project"
 npm run build   
 
+rm -rf /var/www/html/*
+cp -r dist/* /var/www/html/
+
+
 echo "restart the server"
-npm run restart
+systemctl reload nginx 
 
 echo "deployment completed"
