@@ -2,7 +2,7 @@ function App() {
   return (
     <div className="app-shell">
       <header className="hero-section">
-        <h1>Welcome Tushar Gandphatt</h1>
+        <h1>Welcome All of Yoi</h1>
         <p>Fast, modern, and ready to customize.</p>
         <a href="#features" className="cta-button">Explore Features</a>
       </header>
