@@ -1,8 +1,8 @@
 echo "pull the latest code from git"
-git pull origin master
+git pull 
 
 echo "install dependencies"
-npm install     
+npm run install 
 
 echo "build the project"
 npm run build   
